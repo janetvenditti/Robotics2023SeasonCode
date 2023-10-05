@@ -4,7 +4,7 @@ Files from onBotJava, these are from our 22/23 season, adapted for 23/24. Files 
 claire was here, she was.
 
 Linked below are some notebooks on google colab regarding tensorflow and tensor flow lite model building and other resources:
-
+(There needs to be a simpler way than what is required for making a custom tensorflow dataset)
 Model training example: (this distinguishes between penguins)
 https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/customization/custom_training_walkthrough.ipynb
 
