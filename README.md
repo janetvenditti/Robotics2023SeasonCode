@@ -3,6 +3,12 @@ Files from onBotJava, these are from our 22/23 season, adapted for 23/24. Files 
 
 claire was here, she was.
 
+Most importantly this is the most relevant and useful custom dataset tutorial/colab notebook to be adapted for our element.
+https://colab.research.google.com/github/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/Train_TFLite2_Object_Detction_Model.ipynb
+
+
+
+
 Linked below are some notebooks on google colab regarding tensorflow and tensor flow lite model building and other resources:
 (There needs to be a simpler way than what is required for making a custom tensorflow dataset)
 Model training example: (this distinguishes between penguins)
