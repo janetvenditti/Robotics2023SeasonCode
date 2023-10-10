@@ -5,6 +5,7 @@ MAJOR END GOALS:
 
 
 Before we do anything with AI look at the following:
+<details>
  <summary><h3> 🎀 AI (Tensorflow Lite) Resources </h3></summary>
    The colab notebook that guides us on model buildining, make sure to RUN ALL the cells: 
    https://colab.research.google.com/github/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/Train_TFLite2_Object_Detction_Model.ipynb
@@ -16,6 +17,8 @@ Before we do anything with AI look at the following:
    https://ftc-docs.firstinspires.org/en/latest/programming_resources/vision/tensorflow_pp_2022/tensorflow_pp_2022.html
    https://www.tensorflow.org/tutorials/customization/custom_training_walkthrough 
 </details>
+
+<br />
 
 (until team element is photographed)
 make the dataset and train it for best accuracy
