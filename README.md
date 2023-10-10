@@ -29,6 +29,7 @@ research and confirm thought on april tags
 Other non-AI goals (in order of priority):
 Test out motors 
 Make sure everything on control hub works 
+Update all for control hub
 Plan out autonomous needs and path
 Figure out how to do drive by encoders, traveling distancing rather than seconds
 Once arm is built, test driver controlled section 
