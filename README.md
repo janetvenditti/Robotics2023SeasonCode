@@ -35,6 +35,10 @@ Figure out how to do drive by encoders, traveling distancing rather than seconds
 Once arm is built, test driver controlled section 
 Plan, code, test and prototype for airplane (spring? pressured air? slingshot?)
 
-
-
+Strat Method:
+- preloaded with two pixels purple and yellow, start in the corner base of the team 
+- drop off purple pixel at coresponding team element position
+- turn towards april tags and see coresponding location and move there
+- place yellow pixel at backdrop of corresponding location found from april tag 
+  
 claire was here, she was.
