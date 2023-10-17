@@ -21,19 +21,19 @@ Before we do anything with AI look at the following:
 <br />
 
 (until team element is photographed)
-make the dataset and train it for best accuracy
-connect the trained model to onbotJava and the webcam and use it in our code 
-research and confirm thought on april tags 
+- make the dataset and train it for best accuracy
+- connect the trained model to onbotJava and the webcam and use it in our code 
+- research and confirm thought on april tags 
 --> note we also need to take photos of april tags, and the area that tells us R L and C before placing team element ontop april tags
 
 Other non-AI goals (in order of priority):
-Test out motors 
-Make sure everything on control hub works 
-Update all for control hub
-Plan out autonomous needs and path
-Figure out how to do drive by encoders, traveling distancing rather than seconds
-Once arm is built, test driver controlled section 
-Plan, code, test and prototype for airplane (spring? pressured air? slingshot?)
+- Test out motors 
+- Make sure everything on control hub works 
+- Update all for control hub
+- Plan out autonomous needs and path
+- Figure out how to do drive by encoders, traveling distancing rather than seconds
+- Once arm is built, test driver controlled section 
+- Plan, code, test and prototype for airplane (spring? pressured air? slingshot?)
 
 Strat Method:
 - preloaded with two pixels purple and yellow, start in the corner base of the team 
