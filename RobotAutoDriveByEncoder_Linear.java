@@ -119,12 +119,15 @@ public class RobotAutoDriveByEncoder_Linear extends LinearOpMode {
 
         // Step through each leg of the path,
         // Note: Reverse movement is obtained by setting a negative distance (not speed)
-        encoderDrive(DRIVE_SPEED,  26,  26, 5.0);  // S1: forward 26 inches, then adjust and use arm pixel down
-        encoderDrive(DRIVE_SPEED, -20, -20, 0.0);  // S2: reverse 20 inches
-        encoderDrive(TURN_SPEED,   5, -5, 0.0);  // S3: turn right to align with backdrop
-        encoderDrive(DRIVE_SPEED, 80, 80, 0.0);  // S4: move forward 80 inches to move to backdrop
-        encoderDrive(TURN_SPEED, 5, -5, 0.0);  // S3: turn right to go to parking
-        encoderDrive(DRIVE_SPEED, 10, 10, 0.0);  // S4: move forward 10 inches to parking
+        // note 2: its left wheel then right wheel 
+        encoderDrive(DRIVE_SPEED,  26,  26, 5.0);  // 1: drive 26 inches forward to be aligned w/ team element things, pause
+        encoderDrive(TURN_SPEED,   2, 2, 5.0);  // 2: team element
+        encoderDrive(DRIVE_SPEED, -20, -20, 5.0);  // 3: go back 20 inches
+        encoderDrive(TURN_SPEED, 5, -5, 5.0); // 4: turn right to face backboard
+        encoderDrive(DRIVE_SPEED, 80, 80, 5.0); // 5: drive towards backboard
+        //encoderDrive(TURN_SPEED, 0, 0, 5.0); // 6: adjust to place pixel
+        encoderDrive(TURN_SPEED, 5, -5, 5.0); // 7: turn to right to face parking spot again
+        encoderDrive(DRIVE_SPEED, 5, 5, 5.0); // 8: park!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
         telemetry.addData("Path", "Complete");
         telemetry.update();
