@@ -13,6 +13,12 @@ Before we do anything with AI look at the following:
    
 </details>
 
+<details>
+ <summary><h3> 🐋 AI Email </h3></summary>
+   Hello,
+   
+</details>
+
 <br />
 
 (until team element is photographed)
