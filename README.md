@@ -6,16 +6,11 @@ MAJOR END GOALS:
 
 Before we do anything with AI look at the following:
 <details>
- <summary><h3> 🎀 AI (Tensorflow Lite) Resources </h3></summary>
-   The colab notebook that guides us on model buildining, make sure to RUN ALL the cells: 
-   https://colab.research.google.com/github/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/Train_TFLite2_Object_Detction_Model.ipynb
-
-   Other training example for TROUBLESHOOTING ONLY:
-   https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/customization/custom_training_walkthrough.ipynb
-
-   FTC Resource for tensorflow lite connecting and how to implement into code:
-   https://ftc-docs.firstinspires.org/en/latest/programming_resources/vision/tensorflow_pp_2022/tensorflow_pp_2022.html
-   https://www.tensorflow.org/tutorials/customization/custom_training_walkthrough 
+ <summary><h3> 🎀 AI (Tensorflow Lite) Questions and Resources </h3></summary>
+   - how many pictures and what types, change up what lighting? position of camera?
+   - get on emailing
+   - what is too much training for a given amount of images 
+   
 </details>
 
 <br />
