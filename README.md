@@ -14,8 +14,8 @@ Before we do anything with AI look at the following:
 </details>
 
 <details>
- <summary><h3> 🐋 AI Email </h3></summary>
-   Hello,
+ <summary><h3> 🐋 AI Concerns </h3></summary>
+   Is it better to use a pre-trained model from tensorflow and avoid taking photos and hope our 3D print will be rocognized? Or should we train our own model and work through properly labeling photos?
    
 </details>
 
