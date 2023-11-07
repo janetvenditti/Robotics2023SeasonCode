@@ -2,7 +2,7 @@
 Files from onBotJava, these are from our 22/23 season, adapted for 23/24. Files are in .blk and .java file types.
 
 
-[3:43 PM] Claire Mayberrysecond sprint presentation ✨✨✨
+second sprint presentation ✨✨✨
     what we did
 - started + finished encoders! (explain what the encoder is and what it does)
 - planned our path for autonomous w/ strat
