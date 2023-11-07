@@ -1,8 +1,21 @@
 # Robotics2023SeasonCode
 Files from onBotJava, these are from our 22/23 season, adapted for 23/24. Files are in .blk and .java file types.
 
-MAJOR END GOALS:
 
+[3:43 PM] Claire Mayberrysecond sprint presentation ✨✨✨
+    what we did
+- started + finished encoders! (explain what the encoder is and what it does)
+- planned our path for autonomous w/ strat
+- planned ai stuff 
+next time
+- ai. so much ai
+questions 
+- arm??????
+- team element?????
+- field????????
+
+
+MAJOR END GOALS:
 
 Before we do anything with AI look at the following:
 <details>
