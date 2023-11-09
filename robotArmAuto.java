@@ -71,6 +71,14 @@ public class robotArmAuto extends LinearOpMode{
             sleep(100);
              */
 
+
+            
+//what do the three paramaters mean??
+
+
+
+
+            
             //goToEncoderPositionPID(2240, 175, 0);
             /*goToEncoderPositionPID(2240, 175, 0);
             long elapsedTime = System.currentTimeMillis() - begTime;
@@ -203,6 +211,7 @@ public class robotArmAuto extends LinearOpMode{
         telemetry.update();
         return initialPosition == finalPosition;
     }
+    //how many degrees, 50 degreees per minute (5,50)
     private void goToEncoderPositionINC(float targetEncoderIncrement, float rpm){
         float initialPosition = robot.armMotor.getCurrentPosition();
         if(targetEncoderIncrement > 0){
