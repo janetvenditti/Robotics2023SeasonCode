@@ -2,17 +2,12 @@
 Files from onBotJava, these are from our 22/23 season, adapted for 23/24. Files are in .blk and .java file types.
 
 
-second sprint presentation ✨✨✨
-    what we did
-- started + finished encoders! (explain what the encoder is and what it does)
-- planned our path for autonomous w/ strat
-- planned ai stuff 
-next time
-- ai. so much ai
-questions 
-- arm??????
-- team element?????
-- field????????
+Next time => ✨
+
+- tell strat about issue with team element
+- plan out new 3d printing schedule and design for next element
+- play with servo and get an idea of how to use it
+- help strat before planning any team element alterations
 
 
 MAJOR END GOALS:
