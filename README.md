@@ -4,11 +4,8 @@ Files from onBotJava, these are from our 22/23 season, adapted for 23/24. Files 
 
 Next time => ✨
 
-- tell strat about issue with team element
-- plan out new 3d printing schedule and design for next element
-- play with servo and get an idea of how to use it
-- help strat before planning any team element alterations
-
+- figure out arm movements. What was wrong with the arm last time, are we using autonomous.java to control the arm add stuff like that here in case someone misses a practice!
+- otherwise, today I updated the control hub, check if it actually updated
 
 MAJOR END GOALS:
 
