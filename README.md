@@ -14,7 +14,8 @@ Before we do anything with AI look at the following:
  <summary><h3> 🎀 AI (Tensorflow Lite) Questions and Resources </h3></summary>
    - how many pictures and what types, change up what lighting? position of camera?
    - get on emailing
-   - what is too much training for a given amount of images 
+   - what is too much training for a given amount of images, well here we learned about frame training distribution: 
+     https://ftc-docs.firstinspires.org/en/latest/ftc_ml/managing_tool/produce_dataset/produce-dataset.html
    
 </details>
 
