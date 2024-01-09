@@ -11,11 +11,11 @@ MAJOR END GOALS:
 
 Before we do anything with AI look at the following:
 <details>
- <summary><h3> 🎀 AI (Tensorflow Lite) Questions and Resources </h3></summary>
-   - how many pictures and what types, change up what lighting? position of camera?
-   - get on emailing
-   - what is too much training for a given amount of images, well here we learned about frame training distribution: 
-     https://ftc-docs.firstinspires.org/en/latest/ftc_ml/managing_tool/produce_dataset/produce-dataset.html
+ <summary><h3> 🎀 AI (Tensorflow Lite) Resources </h3></summary>
+   - https://www.youtube.com/watch?v=XZ7FYAMCc4M
+   - https://colab.research.google.com/drive/1_oftxFviiT_TVfmr-ZzdDm5a3IJ8ETPy
+   - https://firstroboticsbc.org/ftc/ftc-team-resources/centerstage-team-props/
+   - https://ftc-qa.firstinspires.org/qa/hot
    
 </details>
 
